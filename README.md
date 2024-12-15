@@ -12,8 +12,7 @@
 [![Gráfico de Contribuições](https://github-readme-activity-graph.cyclic.app/graph?username=seu-username&theme=github)](https://github.com/seu-username)
 
 ### 🌐 Meus Projetos
-- [Projeto 1](https://github.com/seu-username/projeto1): Breve descrição.
-- [Projeto 2](https://github.com/seu-username/projeto2): Breve descrição.
+
 
 ---
 🛠️ Tecnologias que uso:
