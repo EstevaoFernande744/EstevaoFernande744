@@ -1,12 +1,12 @@
-| ⚔️ **Bem-vindo ao Reino de Estevão Fernandes! 🏰🐉** |
+| <p align="center">⚔️ **Bem-vindo ao Reino de Estevão Fernandes! 🏰🐉** </p> |
 |-----------------------------------------------------|
 
-| 🛡️ **Sobre Mim**                                                                                     |
+| <p align="center">🛡️ **Sobre Mim** </p> |
 |------------------------------------------------------------------------------------------------------|
 | Cavaleiro do código, mestre dos sistemas backend e desbravador de APIs.                              |
 | Explorador das artes do Java, Spring Boot, MySQL e outros feitiços de programação.                   |
 
-| 🛠️ **Ferramentas do Meu Arsenal**  |
+| <p align="center">🛠️ **Ferramentas do Meu Arsenal**  </p>|
 |-----------------------------------------------------|
 
  <p align="center">                                                                                  
@@ -22,7 +22,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/> 
  </p>                                                                                                 
 
-| 📊 **Estatísticas do Meu Reino** |
+| <p align="center">📊 **Estatísticas do Meu Reino** </p>|
 |-----------------------------------------------------|
  <p align="center">                                                                                  
  <a href="https://github.com/EstevaoFernande744" target="_blank">                                   
@@ -33,16 +33,17 @@
  </a>                                                                                                
  </p>                                                                                                 
 
-| ⚔️ **Minhas Aventuras**                                                                             |
+| <p align="center">⚔️ **Minhas Aventuras** </p>  |
 |------------------------------------------------------------------------------------------------------|
 | - 🏹 [**Projeto de Gestão com Spring Boot**](https://github.com/EstevaoFernande744/projeto-gestao-spring) |
 | - 🐉 [**API de Consultas com Insomnia**](https://github.com/EstevaoFernande744/api-consultas)         |
 | - 🛡️ [**Sistema de Controle de Usuários**](https://github.com/EstevaoFernande744/sistema-controle-usuarios) |
 
-| 🐉 **Portais Mágicos para Contato**|
+| <p align="center">🐉 **Portais Mágicos para Contato** </p>|
 |-----------------------------------------------------|
 
- ⚔️ **Envie um corvo mensageiro ou atravesse os portais abaixo para me encontrar nas terras distantes:** 
+ |<p align="center"> ⚔️ **Envie um corvo mensageiro ou atravesse os portais abaixo para me encontrar nas terras distantes:** </p>|
+|-----------------------------------------------------|
  <p align="center">                                                                                  
  <a href="https://www.instagram.com/estevaofernandes_/" target="_blank">                             
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> 
@@ -61,6 +62,6 @@
  </a>                                                                                                
  </p>                                                                                                 
 
-| 🐉 **Legado do Reino**                                                                               |
+| <p align="center">🐉 **Legado do Reino** </p>  |
 |------------------------------------------------------------------------------------------------------|
 | **"O código é como uma espada. É preciso afiá-lo constantemente."**                                 |
