@@ -3,13 +3,13 @@
 
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-EstevaoFernande744&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EstevaoFernande744&show_icons=true&theme=radical)
 
 ### 🌟 Linguagens Mais Utilizadas
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-EstevaoFernande744&layout=compact&theme=radical)
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoFernande744&layout=compact&theme=radical)
 
 ### 📈 Contribuições Recentes
-[![Gráfico de Contribuições](https://github-readme-activity-graph.cyclic.app/graph?username=seu-EstevaoFernande744&theme=github)](https://github.com/EstevaoFernande744)
+[![Gráfico de Contribuições](https://github-readme-activity-graph.cyclic.app/graph?username=EstevaoFernande744&theme=github)](https://github.com/EstevaoFernande744)
 
 ### 🌐 Meus Projetos
 
