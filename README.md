@@ -22,13 +22,13 @@
  </p>                                                                                                 
 
 | 📊 **Estatísticas do Meu Reino**                                                                     |
-|------------------------------------------------------------------------------------------------------|
+
  <p align="center">                                                                                  
  <a href="https://github.com/EstevaoFernande744" target="_blank">                                   
-| <img src="https://github-readme-stats.vercel.app/api?username=EstevaoFernande744&show_icons=true&theme=radical" width="48%"/> |
+ <img src="https://github-readme-stats.vercel.app/api?username=EstevaoFernande744&show_icons=true&theme=radical" width="48%"/> 
  </a>                                                                                                
  <a href="https://github.com/EstevaoFernande744" target="_blank">                                   
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoFernande744&layout=compact&theme=radical" width="48%"/> |
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoFernande744&layout=compact&theme=radical" width="48%"/> 
  </a>                                                                                                
  </p>                                                                                                 
 
