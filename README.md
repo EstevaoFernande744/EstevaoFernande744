@@ -45,29 +45,29 @@
 
 ---
 
-## 🐉 Entre em Contato Comigo
+## 🐉 Portais Mágicos para Contato
 
 <p align="center">
-  ⚔️ **Envie um corvo ou encontre-me em terras distantes através destes portais mágicos:**
+  ⚔️ **Envie um corvo mensageiro ou atravesse os portais abaixo para me encontrar nas terras distantes:**
 </p>
 
 <p align="center">
   <a href="https://www.instagram.com/estevaofernandes_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Feudo%20Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="50" height="50" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/estev%C3%A3o-fernandes-840a89334/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Reino%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
   <a href="http://lattes.cnpq.br/8405978172215447" target="_blank">
-    <img src="https://img.shields.io/badge/Lattes-Grimório%20Lattes-006699?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Lattes"/>
   </a>
   <a href="https://x.com/Estevaofrnds74" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Feudo%20X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" height="50" alt="Twitter"/>
   </a>
 </p>
 
 <p align="center">
-  🏰 **Que os ventos da sabedoria sempre o guiem, nobre viajante.** 🏹
+  🏰 **Que os ventos da sabedoria guiem vossa mensagem até mim!** 🕊️
 </p>
 
 ---
