@@ -6,7 +6,8 @@
 | Cavaleiro do código, mestre dos sistemas backend e desbravador de APIs.                              |
 | Explorador das artes do Java, Spring Boot, MySQL e outros feitiços de programação.                   |
 
- 🛠️ **Ferramentas do Meu Arsenal**                                                                    
+| 🛠️ **Ferramentas do Meu Arsenal**  |
+|-----------------------------------------------------|
 
  <p align="center">                                                                                  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/> 
@@ -21,8 +22,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/> 
  </p>                                                                                                 
 
-| 📊 **Estatísticas do Meu Reino**                                                                     |
-
+| 📊 **Estatísticas do Meu Reino** |
+|-----------------------------------------------------|
  <p align="center">                                                                                  
  <a href="https://github.com/EstevaoFernande744" target="_blank">                                   
  <img src="https://github-readme-stats.vercel.app/api?username=EstevaoFernande744&show_icons=true&theme=radical" width="48%"/> 
@@ -38,7 +39,8 @@
 | - 🐉 [**API de Consultas com Insomnia**](https://github.com/EstevaoFernande744/api-consultas)         |
 | - 🛡️ [**Sistema de Controle de Usuários**](https://github.com/EstevaoFernande744/sistema-controle-usuarios) |
 
-| 🐉 **Portais Mágicos para Contato**|                                                              
+| 🐉 **Portais Mágicos para Contato**|
+|-----------------------------------------------------|
 
  ⚔️ **Envie um corvo mensageiro ou atravesse os portais abaixo para me encontrar nas terras distantes:** 
  <p align="center">                                                                                  
