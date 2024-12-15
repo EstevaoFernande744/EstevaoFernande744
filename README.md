@@ -52,17 +52,20 @@
 </p>
 
 <p align="center">
- <a href="https://www.instagram.com/estevaofernandes_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" alt="Instagram"/>
+  <a href="https://www.instagram.com/estevaofernandes_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/estev%C3%A3o-fernandes-840a89334/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="http://lattes.cnpq.br/8405978172215447" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Lattes"/>
+    <img src="https://img.shields.io/badge/Lattes-006699?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes"/>
   </a>
   <a href="https://x.com/Estevaofrnds74" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" height="50" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/EstevaoFernande744" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
