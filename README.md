@@ -6,9 +6,9 @@
 | Cavaleiro do código, mestre dos sistemas backend e desbravador de APIs.                              |
 | Explorador das artes do Java, Spring Boot, MySQL e outros feitiços de programação.                   |
 
-| 🛠️ **Ferramentas do Meu Arsenal**                                                                    |
-|------------------------------------------------------------------------------------------------------|
-| <p align="center">                                                                                  
+ 🛠️ **Ferramentas do Meu Arsenal**                                                                    
+
+ <p align="center">                                                                                  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/> 
@@ -19,7 +19,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/> 
- </p>|                                                                                                 
+ </p>                                                                                                 
 
 | 📊 **Estatísticas do Meu Reino**                                                                     |
 |------------------------------------------------------------------------------------------------------|
