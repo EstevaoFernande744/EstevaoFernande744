@@ -1,4 +1,5 @@
-# ⚔️ Bem-vindo ao Reino de Estevão Fernandes! 🏰🐉
+| ⚔️ **Bem-vindo ao Reino de Estevão Fernandes! 🏰🐉** |
+|-----------------------------------------------------|
 
 | 🛡️ **Sobre Mim**                                                                                     |
 |------------------------------------------------------------------------------------------------------|
@@ -30,6 +31,12 @@
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoFernande744&layout=compact&theme=radical" width="48%"/> |
 | </a>                                                                                                |
 | </p>                                                                                                 |
+
+| ⚔️ **Minhas Aventuras**                                                                             |
+|------------------------------------------------------------------------------------------------------|
+| - 🏹 [**Projeto de Gestão com Spring Boot**](https://github.com/EstevaoFernande744/projeto-gestao-spring) |
+| - 🐉 [**API de Consultas com Insomnia**](https://github.com/EstevaoFernande744/api-consultas)         |
+| - 🛡️ [**Sistema de Controle de Usuários**](https://github.com/EstevaoFernande744/sistema-controle-usuarios) |
 
 | 🐉 **Portais Mágicos para Contato**                                                                  |
 |------------------------------------------------------------------------------------------------------|
