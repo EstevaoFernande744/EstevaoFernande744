@@ -40,4 +40,4 @@
 
 ## 🐉 Legado do Reino
 
-> "O código é como uma espada. É preciso afiá-lo todos os dias."
+> **"O código é como uma espada. É preciso afiá-lo constantemente."**
