@@ -13,6 +13,17 @@
 
 ### 🌐 Meus Projetos
 
+- [**Projeto de Gestão com Spring Boot**](https://github.com/EstevaoFernande744/projeto-gestao-spring):
+  Aplicação web para gestão de tarefas, utilizando Spring Boot, Thymeleaf e MySQL.
+
+- [**API de Consultas com Insomnia**](https://github.com/EstevaoFernande744/api-consultas):
+  API RESTful documentada com Insomnia, projetada para consultas a bancos de dados.
+
+- [**Sistema de Controle de Usuários**](https://github.com/EstevaoFernande744/sistema-controle-usuarios):
+  Sistema backend desenvolvido em Java para gerenciamento de usuários e autenticação.
+
+- [**Portfólio Pessoal**](https://github.com/EstevaoFernande744/portfolio-pessoal):
+  Site pessoal responsivo criado com HTML, CSS e integração com JavaScript.
 
 ---
 🛠️ Tecnologias que uso:
